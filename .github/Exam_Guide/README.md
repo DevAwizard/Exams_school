@@ -51,7 +51,7 @@
 
 
 > [!TIP]
->  Practice the exam just like you would in the real exam using the following tool - [Grademe](https://grademe.fr/) 🛠️
+> Practice the exam as if you were in the real exam by implementing the main function of the program, even if only the function is required for submission.  🛠️
 > 
 > Check also [Additional Resources](https://github.com/DevAwizard/Exams_42/blob/main/.github/Resources/README.md) 👀
 

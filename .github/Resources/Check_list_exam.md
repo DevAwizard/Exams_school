@@ -45,7 +45,19 @@
 | **My overall feedback on the exam**           | [Your answer here] |
 
 
-**Instructions**: To mark the type of function/program, replace the space within the brackets with an "X". For example:
+**Instructions**: To mark the type of function/program, replace the space within the brackets with an "X". 
+
+For example:
+
+✔️ [X] Integers
+❌ [ ] Linked Lists
+
+Make sure to complete all sections of the table with your answers.
+
+
+**Good luck! 🎯 Remember, success is the sum of small efforts repeated day in and day out. Stay focused, stay confident, and give it your best! 💪🏻**
+
+
 
 
 ---

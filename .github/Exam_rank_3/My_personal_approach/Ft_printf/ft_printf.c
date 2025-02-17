@@ -1,65 +1,9 @@
 #include <unistd.h>
 #include <stdarg.h>
 
-void put_str(char *string, int *length)
-{
-	int index;
 
-	index = 0;
-	if (!string)
-		string = "(null)";
-	while (string[index])
-		*length += write(1, &string[index++], 1);
+// You can use this main to test your printf
 
-}
-
-void put_digit(long long int number, int base, int *len)
-{
-	char *hexa;
-	
-	hexa = "0123456789abcdef";
-	if (number < 0)
-	{
-		number *= -1;
-		*len += write(1, "-", 1);
-	}
-
-	if (number >= base)
-	{
-		put_digit((number/base), base, len);
-	}
-	*len += write(1,&hexa[number % base], 1);
-}
-
-
-int	ft_printf(const char *string, ...)
-{
-	int		length;
-	int		index;
-	va_list argument;
-
-	length = 0;
-	va_start(argument, string);
-	index = 0;
-	while (string[index])
-	{
-		if (string[index] == '%' && string[index + 1])
-		{
-			index++;
-			if (string[index] == 's')
-				put_str(va_arg(argument, char *), &length);
-			else if (string[index] == 'd')
-				put_digit((long long int)va_arg(argument, int), 10, &length);
-			else if(string[index] == 'x')
-				put_digit((long long int)va_arg(argument, unsigned int), 16, &length);
-		}
-		else
-			length += write(1, &string[index], 1);
-		index++;
-	}
-	va_end(argument);
-	return (length);
-}
 
 int main (void)
 {

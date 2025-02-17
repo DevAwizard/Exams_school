@@ -39,9 +39,10 @@ For more details, refer to the following [documentation](https://github.com/DevA
 
 > [!TIP]
 > Also, use this [checklist and questionaire](https://github.com/DevAwizard/Exams_42/blob/main/.github/Resources/Check_list_exam.md) to write down which exercises you failed and passed, and have a record of it. 📋
->
-> > [!IMPORTANT]  
-> **Some subject probably have changed since we took the exam.**
+
+
+> [!IMPORTANT]  
+> **Some subject probably have changed since I took the exam.**
 
 
 ## Levels

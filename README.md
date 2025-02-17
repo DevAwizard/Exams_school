@@ -24,11 +24,30 @@
 </table>
 </div>
 
+<p align="center">
+🚨 Important Announcement Regarding This Repository 🚨
 
+Due to recent enforcement of 42’s principles regarding the sharing of content, I have decided to remove any material that could potentially violate 42’s policies while keeping content that aligns with their guidelines.
+
+🔹 **What’s Changing?**
+	•	Any forbidden content, such as full project solutions or evaluative work, has been removed.
+	•	The repository will continue to host educational resources, including explanations, references, and concept notes.
+
+🔹 **Why?**
+This decision is to ensure compliance with 42’s principles while still supporting learning and knowledge-sharing in an ethical way.
+
+💡 Thank You for Your Support!
+I truly appreciate everyone who has found this repository useful. Your support means a lot! 🙌
+If you’re interested, don’t forget to check out my other repositories for more learning resources.
+
+Stay curious and keep learning! 🚀
+</p>
 
 <p align="center">
   🌟 Embrace the journey of learning; the joy lies in the process, not just the outcome. 🌟
 </p>
+
+
 
 
 > [!NOTE]

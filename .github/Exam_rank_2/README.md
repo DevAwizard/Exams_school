@@ -42,6 +42,9 @@ For more details, refer to the following [documentation](https://github.com/DevA
 >
 
 
+<span style="background-color: yellow; padding: 2px 5px;">Some subject probably have changed since we took the exam.</span>
+
+
 ## Levels
 
 #### 🟢 **Level 1️⃣ (12 functions/programs)**

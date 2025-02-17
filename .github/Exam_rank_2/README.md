@@ -42,7 +42,7 @@ For more details, refer to the following [documentation](https://github.com/DevA
 
 
 > [!IMPORTANT]  
-> **Some subject probably have changed since I took the exam.**
+> **Some subjects probably have changed since I took the exam.**
 
 
 ## Levels

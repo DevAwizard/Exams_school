@@ -49,7 +49,6 @@ If not, take your time to **read carefully**.📖💭 Since you have a white pap
 
 If not check it [here](https://github.com/DevAwizard/Exams_school/blob/main/.github/Resources/Exam_Login_Guide.md)📜. It’s useful to remember the commands in case you need to check the status 🔍📌, view the history of logs, 🕒📊 or manage your repository efficiently. 💻⚙️
 
-For more details, refer to the following [documentation](https://github.com/DevAwizard/Exams_42/tree/main/.github/Exam_rank_2/My_learning_approach) 📄.
 
 > [!TIP]
 > Also, use this [checklist and questionaire](https://github.com/DevAwizard/Exams_42/blob/main/.github/Resources/Check_list_exam.md) to write down which exercises you failed and passed, and have a record of it. 📋

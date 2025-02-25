@@ -56,11 +56,5 @@ If not check it [here](https://github.com/DevAwizard/Exams_school/blob/main/.git
 > If you want to know which exercises appear on the exam, the best approach is to attempt as many as possible
 
 
-> [!IMPORTANT]  
-> **Some subjects probably have changed since I took the exam.**
->
-
-
-
 
 ---

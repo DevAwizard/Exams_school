@@ -17,7 +17,7 @@
 
 
 <blockquote style="font-family: Arial, sans-serif; line-height:1.8; font-size:18px; color:#d9534f; background-color:#f9f2f4; padding:10px; border-left:5px solid #d9534f;">
-  <strong>⚠️ Important:</strong> Some exercises may not be fully accurate, as only a few of them have appeared in the exam. Therefore, some may be incorrect, so exercise caution when using them 🧐. If you think of any other exercises that could be included in any of the categories, feel free to let me know!
+  <strong>⚠️ Important:</strong> Some exercises may not be fully implemented or entirely correct, as only a few of them have appeared in the exam. Therefore, some may be incorrect, so exercise caution when using them 🧐. If you think of any other exercises that could be included in any of the categories, feel free to let me know!
 </blockquote>
 
 ## 1. Characters (Original Order)

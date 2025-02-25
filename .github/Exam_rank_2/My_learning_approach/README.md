@@ -17,7 +17,7 @@
 
 
 <blockquote style="font-family: Arial, sans-serif; line-height:1.8; font-size:18px; color:#d9534f; background-color:#f9f2f4; padding:10px; border-left:5px solid #d9534f;">
-  <strong>⚠️ Important:</strong> Some exercises may not be entirely correct, so use them wisely. 🧐  
+  <strong>⚠️ Important:</strong> Some exercises may not be fully accurate, so exercise caution when using them. 🧐  
 </blockquote>
 
 ## 1. Characters (Original Order)

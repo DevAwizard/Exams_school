@@ -13,8 +13,12 @@
     <li>Linked lists</li>
 </ul>
 
-<p style="font-family: Arial, sans-serif; line-height:1.8; font-size:18px; color:#333;">I began with Characters (original order), then moved on to Characters (reverse order), followed by Integers, Bits, and finally Linked lists. Within each category, I arranged the tasks from easiest to hardest based on my personal criteria.</p>
+<p style="font-family: Arial, sans-serif; line-height:1.8; font-size:18px; color:#333;">I started with Characters (original order), then moved on to Characters (reverse order), followed by Integers, Bits, and finally Linked lists. Within each category, I arranged the tasks from easiest to hardest based on my personal criteria.</p>
 
+
+<blockquote style="font-family: Arial, sans-serif; line-height:1.8; font-size:18px; color:#d9534f; background-color:#f9f2f4; padding:10px; border-left:5px solid #d9534f;">
+  <strong>⚠️ Important:</strong> Some exercises may not be entirely correct, so use them wisely. 🧐  
+</blockquote>
 
 ## 1. Characters (Original Order)
 
